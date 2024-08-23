@@ -12,6 +12,8 @@ DATE conducted: 22/08/2024 at 18:00
 
 > Note: This test aims to initiate research tracks on ketone esters. The results obtained should be interpreted accordingly and are based on a single athlete.
 
+Code and data can be find here: https://github.com/blancsw/run_analysis/tree/main/data/23_08_2024_cetone_10k
+
 ## Context
 
 Intensive preparation for a marathon with a weekly training load of 150 km. On the day of the test, a total of 60 km had been covered during the week.

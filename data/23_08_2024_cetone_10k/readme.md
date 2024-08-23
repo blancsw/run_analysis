@@ -12,10 +12,13 @@ DATE de réalisation: 22/08/2024 à 18H
 
 > Remarque: Ce test vise à initier des pistes de recherche sur les esters de cétone. Les résultats obtenus doivent être interprétés en conséquence et sont basés sur une seule et unique athlète.
 
+Code et donné disponible ici: https://github.com/blancsw/run_analysis/tree/main/data/23_08_2024_cetone_10k
+
 ## Contexte
 
 Préparation intensive pour un marathon avec une charge d'entraînement hebdomadaire de 150 km. Le jour du test, un total de 60 km a été parcouru dans la semaine.
 L'entrainement général s'est concentré sur les allures de 3'10", 3'15" et 3'20". En vue d'un travail de resistance dans l'optique du marathon, sans toutefois cibler spécifiquement l'adaptation à la résistance lactique pour les allures réaliser l'or du test.
+
 
 **Conditions météorologiques** : Température élevée (~32 degrés Celsius) avec une résistance au vent de 4% mesurée par un capteur Stryd.
 

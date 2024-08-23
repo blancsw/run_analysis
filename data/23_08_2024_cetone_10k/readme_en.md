@@ -16,6 +16,7 @@ DATE conducted: 22/08/2024 at 18:00
 
 Intensive preparation for a marathon with a weekly training load of 150 km. On the day of the test, a total of 60 km had been covered during the week.
 The general training focused on paces of 3'10", 3'15", and 3'20". In view of resistance work for the marathon, without specifically targeting lactate resistance adaptation for the paces performed during the test.
+
 **Weather conditions**: High temperature (~32 degrees Celsius) with a wind resistance of 4% measured by a Stryd sensor.
 
 ### Athlete Information
@@ -32,7 +33,7 @@ The general training focused on paces of 3'10", 3'15", and 3'20". In view of res
 
 ![img.png](img.png)
 
-Last meal consumed at 9:00 before the effort:
+Last meal consumed at 9:00h before the effort:
 
 - A gel containing 30g of carbohydrates without caffeine, consumed 15 minutes before the first series of exercises.
 - A similar gel accompanied by 25g of ketone ester (i.e., 50ml), consumed 15 minutes before the second series of exercises.

@@ -1,5 +1,11 @@
 # Test of Lactate and Ketones
 
+Author: BLANC Swan
+
+TEAM: NS-TEAM Infomaniak
+
+Special thanks to KetoneAid for producing one of the best ketone esters on the market.
+
 DATE conducted: 22/08/2024 at 18:00
 
 > Note: This test aims to initiate research tracks on ketone esters. The results obtained should be interpreted accordingly and are based on a single athlete.

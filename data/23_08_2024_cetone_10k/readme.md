@@ -1,5 +1,11 @@
 # Test du Lactate et des Cétones
 
+Auteur : BLANC Swan
+
+ÉQUIPE : NS-TEAM Infomaniak
+
+Remerciements spéciaux à KetoneAid pour produire l'un des meilleurs esters de cétone sur le marché.
+
 DATE de réalisation: 22/08/2024 à 18H
 
 > Remarque: Ce test vise à initier des pistes de recherche sur les esters de cétone. Les résultats obtenus doivent être interprétés en conséquence et sont basés sur une seule et unique athlète.

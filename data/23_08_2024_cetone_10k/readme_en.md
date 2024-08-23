@@ -2,6 +2,8 @@
 
 Author: BLANC Swan
 
+Help by: Olivier Iund
+
 TEAM: NS-TEAM Infomaniak
 
 Special thanks to KetoneAid for producing one of the best ketone esters on the market.

@@ -2,6 +2,8 @@
 
 Auteur : BLANC Swan
 
+Avec l'aide de: Olivier Iund
+
 ÉQUIPE : NS-TEAM Infomaniak
 
 Remerciements spéciaux à KetoneAid pour produire l'un des meilleurs esters de cétone sur le marché.

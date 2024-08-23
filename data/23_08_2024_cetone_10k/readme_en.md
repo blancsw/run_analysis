@@ -17,6 +17,7 @@ DATE conducted: 22/08/2024 at 18:00
 Intensive preparation for a marathon with a weekly training load of 150 km. On the day of the test, a total of 60 km had been covered during the week.
 The general training focused on paces of 3'10", 3'15", and 3'20". In view of resistance work for the marathon, without specifically targeting lactate resistance adaptation for the paces performed during the test.
 
+
 **Weather conditions**: High temperature (~32 degrees Celsius) with a wind resistance of 4% measured by a Stryd sensor.
 
 ### Athlete Information

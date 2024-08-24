@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
 
 # Load the CSV file into a DataFrame
 filename = '10k_run.csv'
@@ -45,5 +46,9 @@ plt.ylabel(PLOY_Y)
 plt.title(f'With and without ketone, gain: {abs(gain.mean().round(2))}%')
 plt.legend()
 
-# Show the plot
+# Filter out the rest data as it is not relevant for correlation
+df_filtered = data[data['Label'] != 'rest']
+
+# Plotting the distribution of Heart Rate (HR) using displot
+sns.pairplot(df_filtered, vars=["HR", "power", "Lactate", "Dist"], hue="Label", kind="kde")
 plt.show()
